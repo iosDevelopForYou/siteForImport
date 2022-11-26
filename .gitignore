@@ -1,0 +1,6 @@
+/tmp
+.gitignore.rtf
+*_old
+*_bacup
+.DS_Store
+Thumbs.db
